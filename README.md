@@ -46,7 +46,7 @@ Now you are inside mongo shell. You can now start executing mongo commands in th
 show dbs;
 ```
 
-![Accessing Mongo Shell](https://raw.githubusercontent.com/praveenweb/sahat-hackathon-starter/master/assets/mongo-shell-access.png)
+![Accessing Mongo Shell](https://raw.githubusercontent.com/praveenweb/sahat-hackathon-starter-hasura/master/assets/mongo-shell-access.png)
 
 ## View server logs
 
