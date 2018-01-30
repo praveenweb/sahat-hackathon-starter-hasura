@@ -1,8 +1,8 @@
 # sahat-hackathon-starter
 
-git push and deploy this [sahat/hackathon-starter](https://github.com/sahat/hackathon-starter) to an HTTPS domain *without any setup*.
+`git push` and deploy this [sahat/hackathon-starter](https://github.com/sahat/hackathon-starter) to an HTTPS domain *without any setup*.
 
-This project is a Node.js boilerplate for deploying to the cloud using Hasura. Make changes and “git push” to automatically build a docker image and deploy using kubernetes. Comes with MongoDB, Bootstrap 3 + SaaS, Contact Form, Profile Management, a Node.js Dockerfile and Kubernetes spec files. There is no configuration required to get this nodejs + mongodb app working apart from the "Clone & Deploy" instructions. This can be deployed on Hasura's free hosting tier and should take you all of 2 mins to get up and running.
+This project is a Node.js boilerplate for deploying to the cloud using Hasura. Make changes and `git push` to automatically build a docker image and deploy using kubernetes. Comes with MongoDB, Bootstrap 3 + SaaS, Contact Form, Profile Management, a Node.js Dockerfile and Kubernetes spec files. There is no configuration required to get this nodejs + mongodb app working apart from the "Clone & Deploy" instructions. This can be deployed on Hasura's free hosting tier and should take you all of 2 mins to get up and running.
 
 ## Deployment instructions
 
